@@ -2,7 +2,6 @@ import os
 import shutil
 import sys
 
-sys.path.insert(0, 'H:\Meu Drive\Python\Dev_FTTh\Objetos_Globais')
 from caminho import Caminho
 from poligono import Poligono
 from geopy.distance import distance
